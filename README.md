@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=Manoj735&show_icons=true&theme=radical)
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/nirala69/nirala69/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://C:\zoom" width="350" align='right'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj735)
 <br>
 <hr>
