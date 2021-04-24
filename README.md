@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 
 <br/>
-[![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
-[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal)
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Manoj-Kumar.The-Manoj-Kumar)
+
 ## ⚡ Technologies
 
   <br/>
