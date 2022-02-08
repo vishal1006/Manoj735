@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   
 
 <!-- Github Stats + Streaks -->
-  <img src = "https://activity-graph.herokuapp.com/graph?username=kapilkumar2001&theme=react-dark&hide_border=true&area=true" width = 800>
-  <img src = "https://github-readme-stats.vercel.app/api?username=kapilkumar2001&show_icons=true&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kapilkumar2001&theme=dark&hide_border=true" width = 400>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=Manoj735&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Manoj735&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Manoj735&theme=dark&hide_border=true" width = 400>
   
 </p>
 
@@ -56,15 +56,15 @@ Here are some ideas to get you started:
 <p align="center">
 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imkapil31) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kapilkumar2001/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_____kapil/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/imkapil16) 
-[<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/kapilkumar2001)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ManojPr16699644) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manoj-kumar-7b9620192/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prajapatimanoj84/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100016077671461) 
+[<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Manoj735)
 </p>
   
 <br/>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=kapilkumar2001.kapilkumar2001)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Manoj735.Manoj735)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
