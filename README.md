@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-### <img src='./assets/github-wavy.gif' width='25px'> My Github Stats:
+### <img src='./github-wavy.gif' width='25px'> My Github Stats:
 <br/>
 <p align="center">
   
