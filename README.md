@@ -20,29 +20,51 @@ Here are some ideas to get you started:
 
 <br/>
 
-## ⚡ Technologies
+<!-- Technologies and Tools Section -->
+<h2 align="left">🛠️ Technologies and Tools I use:</h2>
+<br/>
+<p align="left"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C lang Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java lang Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="git Logo" width="50" height="50" hspace="15"/>
 
-  <br/>
-
-
-![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=Manoj735&show_icons=true&theme=radical)
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git Logo" width="50" height="50" hspace="15"/>
+</p>
 <br/>
 <br/>
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="350" align='right'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj735)
-<br>
+
+
+### <img src='./assets/github-wavy.gif' width='25px'> My Github Stats:
+<br/>
+<p align="center">
+  
+
+<!-- Github Stats + Streaks -->
+  <img src = "https://activity-graph.herokuapp.com/graph?username=kapilkumar2001&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=kapilkumar2001&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kapilkumar2001&theme=dark&hide_border=true" width = 400>
+  
+</p>
+
+
 <hr>
 <br>
 <p align="center">
-    <a href="https://facebook.com/Manoj Prajapati" alt="Facebook"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/474x/fc/00/61/fc0061da43b239899945b1e886faa80a.jpg"></a>
-    <a href="https://www.linkedin.com/in/manoj-kumar-7b9620192/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png"></a>
-    <a href="https://github.com/Manoj735" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"></a>
-    <a href="https://twitter.com/ManojPr16699644" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
-    <a href="https://www.instagram.com/prajapatmanoj84/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg"></a>
+
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imkapil31) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kapilkumar2001/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_____kapil/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/imkapil16) 
+[<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/kapilkumar2001)
 </p>
   
 <br/>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Manoj735.Manoj735)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=kapilkumar2001.kapilkumar2001)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
