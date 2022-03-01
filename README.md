@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Html Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css.svg" alt="Css Logo" width="50" height="50" hspace="15"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript Logo" width="50" height="50" hspace="15"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C lang Logo" width="50" height="50" hspace="15"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java lang Logo" width="50" height="50" hspace="15"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Java lang Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="git Logo" width="50" height="50" hspace="15"/>
 
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql Logo" width="50" height="50" hspace="15"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="mysql Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git Logo" width="50" height="50" hspace="15"/>
 </p>
 <br/>
