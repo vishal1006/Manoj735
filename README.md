@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 <br/>
 <p align="left"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50" hspace="15"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50" hspace="15"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="Html Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css.svg" alt="Css Logo" width="50" height="50" hspace="15"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C lang Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java lang Logo" width="50" height="50" hspace="15"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="git Logo" width="50" height="50" hspace="15"/>
