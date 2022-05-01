@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ManojPr16699644) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manoj-kumar-7b9620192/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prajapatimanoj84/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100016077671461) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prajapatimanoj84/)  
 [<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Manoj735)
 </p>
   
