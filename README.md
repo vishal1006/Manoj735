@@ -1,17 +1,17 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Manoj Kumar
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sagar Patil
 
 
-**Manoj735/Manoj735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagar201201/sagar201201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data structure and algorithm
-- 🌱 I’m currently learning on Data structure and algorithm 
+- 🔭 I’m currently working on HTML And Css
+- 🌱 I’m currently learning on C++ and Python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me anything.
-- 📫 How to reach me: prajapatmanoj609@gmail.com
+- 📫 How to reach me: Sagarpatil201201@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: Carrom
 
 
 <br/>
@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 <p align="center">
 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ManojPr16699644) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manoj-kumar-7b9620192/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prajapatimanoj84/)  
-[<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Manoj735)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SagarPa42891222?t=NUIhKr8awjy9nr_o7uAv6A&s=09) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sagar-patil-2832bb174/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/royal__sagar__patil/?next=%2F/)  
+[<img src = "https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/sagar201201)
 </p>
   
 <br/>
